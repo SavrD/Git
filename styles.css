@@ -1,0 +1,23 @@
+p {color: red;}
+h1{color: green;}
+h6{color: purple}
+td { width: 400px;
+    height: 300px;}
+h6 {text-align: right;}
+p {text-align: center;}
+h1 {text-align: center;}
+h2 {font-weight: bold}
+p{font-weight: normal;}
+table { width: 500px;
+    height: 300px;}
+td {font-weight: bold}
+th {font-weight: normal;}
+p{font-style: italic;}
+p{font-size: 30px;}
+h1 {font-family: 'Franklin Gothic Medium';}
+p {line-height: 50px;}
+p{text-indent: 50px;}
+h1 {text-decoration:underline ;}
+p{text-decoration: overline;}
+h6{text-decoration: line-through;}
+a {color: grey;}
